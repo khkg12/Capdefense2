@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 2585e6546d2532148ad4700c220a9ce8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2477905992676893242
+    second: Sample_3_3_Debuff_Stun_0_0
+  - first:
+      213: 1452897556493878783
+    second: Sample_3_3_Debuff_Stun_0_1
+  - first:
+      213: -430271155153302145
+    second: Sample_3_3_Debuff_Stun_0_2
+  - first:
+      213: -3650951902242418868
+    second: Sample_3_3_Debuff_Stun_0_3
+  - first:
+      213: 3853440147288156911
+    second: Sample_3_3_Debuff_Stun_0_4
+  - first:
+      213: -6798155862385844526
+    second: Sample_3_3_Debuff_Stun_0_5
+  - first:
+      213: 372661215645739133
+    second: Sample_3_3_Debuff_Stun_0_6
+  - first:
+      213: -6962933379868107143
+    second: Sample_3_3_Debuff_Stun_0_7
+  - first:
+      213: 6401704942897728484
+    second: Sample_3_3_Debuff_Stun_0_8
+  - first:
+      213: -1621871465009808008
+    second: Sample_3_3_Debuff_Stun_0_9
+  - first:
+      213: -6598645922373484379
+    second: Sample_3_3_Debuff_Stun_0_10
+  - first:
+      213: 8661660296522892288
+    second: Sample_3_3_Debuff_Stun_0_11
+  - first:
+      213: -4803462786724049909
+    second: Sample_3_3_Debuff_Stun_0_12
+  - first:
+      213: -3190302441134587171
+    second: Sample_3_3_Debuff_Stun_0_13
+  - first:
+      213: -2146619607714595780
+    second: Sample_3_3_Debuff_Stun_0_14
+  - first:
+      213: 3962940726929340664
+    second: Sample_3_3_Debuff_Stun_0_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1018
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3261503f5a436220800000000000000
+      internalID: 2477905992676893242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1018
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5c9dd31aab92410800000000000000
+      internalID: 1452897556493878783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1018
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d8dfff9ae570af0800000000000000
+      internalID: -430271155153302145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1018
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fcdc6a696355dc0800000000000000
+      internalID: -3650951902242418868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 762
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feae656c56b2a7530800000000000000
+      internalID: 3853440147288156911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 762
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de90c6e24918a1a0800000000000000
+      internalID: -6798155862385844526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_6
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 762
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d782124b665fb2500800000000000000
+      internalID: 372661215645739133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_7
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 762
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e50427bf0be5f90800000000000000
+      internalID: -6962933379868107143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 506
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb08465abc67d850800000000000000
+      internalID: 6401704942897728484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 506
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d7fb0ee74fd79e0800000000000000
+      internalID: -1621871465009808008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_10
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 506
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a04956ae76ec64a0800000000000000
+      internalID: -6598645922373484379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_11
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 506
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0040a53f526643870800000000000000
+      internalID: 8661660296522892288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 250
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c41899b0ca65db0800000000000000
+      internalID: -4803462786724049909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 250
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd28c1e25d4c9b3d0800000000000000
+      internalID: -3190302441134587171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_14
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 250
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c784e07dca532e0800000000000000
+      internalID: -2146619607714595780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_3_3_Debuff_Stun_0_15
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 250
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f83d8638913ff630800000000000000
+      internalID: 3962940726929340664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

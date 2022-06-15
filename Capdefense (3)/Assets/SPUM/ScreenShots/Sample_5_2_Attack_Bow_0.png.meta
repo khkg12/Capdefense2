@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 3a6ebc0b2f6514148bb417eca1afae97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3775105339149860580
+    second: Sample_5_2_Attack_Bow_0_0
+  - first:
+      213: -3039713984412672372
+    second: Sample_5_2_Attack_Bow_0_1
+  - first:
+      213: 2161617682610716833
+    second: Sample_5_2_Attack_Bow_0_2
+  - first:
+      213: -6360905342341800210
+    second: Sample_5_2_Attack_Bow_0_3
+  - first:
+      213: 7280125841880690101
+    second: Sample_5_2_Attack_Bow_0_4
+  - first:
+      213: 4855780018299815271
+    second: Sample_5_2_Attack_Bow_0_5
+  - first:
+      213: 8822421391372336639
+    second: Sample_5_2_Attack_Bow_0_6
+  - first:
+      213: -1751119635458559992
+    second: Sample_5_2_Attack_Bow_0_7
+  - first:
+      213: 2482637613671667177
+    second: Sample_5_2_Attack_Bow_0_8
+  - first:
+      213: -7204386148819525260
+    second: Sample_5_2_Attack_Bow_0_9
+  - first:
+      213: 537630155298753809
+    second: Sample_5_2_Attack_Bow_0_10
+  - first:
+      213: -8520240647381326896
+    second: Sample_5_2_Attack_Bow_0_11
+  - first:
+      213: 2303843067073078945
+    second: Sample_5_2_Attack_Bow_0_12
+  - first:
+      213: -3224915590900680935
+    second: Sample_5_2_Attack_Bow_0_13
+  - first:
+      213: 4100293212664460979
+    second: Sample_5_2_Attack_Bow_0_14
+  - first:
+      213: 2050166050045368698
+    second: Sample_5_2_Attack_Bow_0_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1018
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11ca4602b12c9bc0800000000000000
+      internalID: -3775105339149860580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1018
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e9b4c7c34c0d5d0800000000000000
+      internalID: -3039713984412672372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_2
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1018
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0073064db9ffd10800000000000000
+      internalID: 2161617682610716833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1018
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee15dbea4689b7a0800000000000000
+      internalID: -6360905342341800210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 762
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bda075a1e3380560800000000000000
+      internalID: 7280125841880690101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 762
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765433a1332336340800000000000000
+      internalID: 4855780018299815271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 762
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd3e8323898f6a70800000000000000
+      internalID: 8822421391372336639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_7
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 762
+        width: 84
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800f74928f5c2b7e0800000000000000
+      internalID: -1751119635458559992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 506
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e55cec81c9147220800000000000000
+      internalID: 2482637613671667177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 506
+        width: 88
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4712ed6d7f0e40c90800000000000000
+      internalID: -7204386148819525260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_10
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 506
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dce1b17cb067700800000000000000
+      internalID: 537630155298753809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_11
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 506
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3edfbf54602c980800000000000000
+      internalID: -8520240647381326896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 250
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6232f2015e8ff10800000000000000
+      internalID: 2303843067073078945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 250
+        width: 91
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917febd3b5cce33d0800000000000000
+      internalID: -3224915590900680935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 250
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b67fcfd3fa27e830800000000000000
+      internalID: 4100293212664460979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_5_2_Attack_Bow_0_15
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 250
+        width: 93
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7915870927a37c10800000000000000
+      internalID: 2050166050045368698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

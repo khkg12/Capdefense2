@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 8acb5469df161f54199ee6cdf1e3f306
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5738672579087079303
+    second: Sample_4_4_Death_0_0
+  - first:
+      213: -4343523079849517473
+    second: Sample_4_4_Death_0_1
+  - first:
+      213: 1716282410496718479
+    second: Sample_4_4_Death_0_2
+  - first:
+      213: 1473293440463366379
+    second: Sample_4_4_Death_0_3
+  - first:
+      213: -6387883533492506822
+    second: Sample_4_4_Death_0_4
+  - first:
+      213: 1897463631232067232
+    second: Sample_4_4_Death_0_5
+  - first:
+      213: -5535355248348108712
+    second: Sample_4_4_Death_0_6
+  - first:
+      213: -1596416360907238534
+    second: Sample_4_4_Death_0_7
+  - first:
+      213: -8764681575863474236
+    second: Sample_4_4_Death_0_8
+  - first:
+      213: 4593983478645086311
+    second: Sample_4_4_Death_0_9
+  - first:
+      213: -3419262951696679180
+    second: Sample_4_4_Death_0_10
+  - first:
+      213: 6381476856263055972
+    second: Sample_4_4_Death_0_11
+  - first:
+      213: -1553367867531517986
+    second: Sample_4_4_Death_0_12
+  - first:
+      213: 4208885341227775730
+    second: Sample_4_4_Death_0_13
+  - first:
+      213: 7590997393695499809
+    second: Sample_4_4_Death_0_14
+  - first:
+      213: 4387031199122489841
+    second: Sample_4_4_Death_0_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1018
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78792ce4e4cd3af40800000000000000
+      internalID: 5738672579087079303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1019
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5edbd795c4b8b3c0800000000000000
+      internalID: -4343523079849517473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1019
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8678e352c571d710800000000000000
+      internalID: 1716282410496718479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1037
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be86bb80490327410800000000000000
+      internalID: 1473293440463366379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_4
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1020
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fac9f45cda957a0800000000000000
+      internalID: -6387883533492506822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 784
+        width: 84
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a66fc19e15255a10800000000000000
+      internalID: 1897463631232067232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 785
+        width: 84
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858ed9caab77e23b0800000000000000
+      internalID: -5535355248348108712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_7
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 765
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73908627c368d9e0800000000000000
+      internalID: -1596416360907238534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_8
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 763
+        width: 114
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c72f354b889d5680800000000000000
+      internalID: -8764681575863474236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 765
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76857a442ab11cf30800000000000000
+      internalID: 4593983478645086311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_10
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 765
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe377226765c80d0800000000000000
+      internalID: -3419262951696679180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 497
+        width: 123
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a9fe7e36f8f8850800000000000000
+      internalID: 6381476856263055972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 507
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf17429724517ae0800000000000000
+      internalID: -1553367867531517986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_13
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 486
+        width: 123
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6fa301be6f86a30800000000000000
+      internalID: 4208885341227775730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_14
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 487
+        width: 122
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126e22629e3a85960800000000000000
+      internalID: 7590997393695499809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample_4_4_Death_0_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 231
+        width: 122
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f18042d1add1ec30800000000000000
+      internalID: 4387031199122489841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
